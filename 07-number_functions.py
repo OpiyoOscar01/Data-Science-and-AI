@@ -12,3 +12,4 @@ p,q,r,s,t,u=2,3,4,5,6,7
 print(max(p,q,r,s,t,u))
 print(min(p,q,r,s,t,u))
 print(math.log(100))
+print(math.log10(100))
