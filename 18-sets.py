@@ -101,7 +101,6 @@ print("Difference of teams and new_teams:",teams.difference(new_teams))
 print("Symmetric difference of teams and new_teams:",teams.symmetric_difference(new_teams))
 print("Is Arsenal in teams?","Arsenal" in teams)
 print("Union of teams and new_teams:",team_union)
-team
 for team in copied_teams:
   print(team)
 
