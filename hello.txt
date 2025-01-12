@@ -1,2 +1,7 @@
-I am in this file Content.
-I was created by Oscar.
+
+Hello Oscar.
+Good afternoon.
+You are becoming an expert in Python.
+Please keep it up!
+
+Always push your code to github.
